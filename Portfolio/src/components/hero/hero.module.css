@@ -74,7 +74,7 @@
   }
 }
 
-.topBlur {
+/* .topBlur {
   position: absolute;
   width: 50vw;
   height: 50vw;
@@ -86,9 +86,9 @@
   background: rgba(18, 18, 18, 0.7);
   filter: blur(100px);
   z-index: 0;
-}
+} */
 
-.bottomBlur {
+/* .bottomBlur {
   position: absolute;
   width: 70vw;
   height: 50vw;
@@ -100,7 +100,7 @@
   background: rgba(18, 18, 18, 0.7);
   filter: blur(100px);
   z-index: 0;
-}
+} */
 
 @media screen and (max-width: 830px) {
   .container {
