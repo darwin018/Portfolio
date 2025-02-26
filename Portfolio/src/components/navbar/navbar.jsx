@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import styles from "./Navbar.module.css";
+import styles from "./navbar.module.css";
 import menuIcon from "../../assets/nav/menuIcon.png";
 import closeIcon from "../../assets/nav/closeIcon.png";
 
