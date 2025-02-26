@@ -1,0 +1,19 @@
+[
+    
+    {
+      "role": "HSC",
+      "organisation": "The Sivakasi Lions Matric Hr. Sec. School",
+      "startDate": "2020 - 2022",
+      "endDate": "Graduated",
+      "experiences": ["HSC(CS and Maths):91.5%"],
+      "imageSrc": "lions.jpg"
+    },
+    {
+      "role": "B.Tech-IT",
+      "organisation": "St. Joseph's Institute of Technology",
+      "startDate": "2022",
+      "endDate": "2026",
+      "experiences": ["Information Technology","Software Engineering"],
+      "imageSrc": "sjit.png"
+    }
+  ]

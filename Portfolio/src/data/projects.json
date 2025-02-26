@@ -1,0 +1,24 @@
+[
+    {
+      "title": "Amazekart",
+      "imageSrc": "projects/loan.png",
+      "description": "A simple e-commerce website built using HTML and CSS.",
+      "skills": ["HTML", "CSS"]
+    
+    },
+    {
+      "title": "Random Password Generator",
+      "imageSrc": "projects/recaptcha.png",
+      "description": "A static website which provides random password with varying length.",
+      "skills": ["HTML", "CSS", "JS"]
+
+    },
+    {
+      "title": "Portfolio",
+      "imageSrc": "projects/portfolio.png",
+      "description": "React portfolio showcasing projects, skills, and experience with a modern touch.",
+      "skills": ["React", "CSS", "Node"]
+
+    }
+  ]
+  
